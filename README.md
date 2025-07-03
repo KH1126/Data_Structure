@@ -5,7 +5,6 @@
 * [Course Website](https://ncueeclass.ncu.edu.tw/course/info/22091)
 
 This course includes **6 programming assignments** and **1 final project**.  
-# Data Structure
 ## Assignments
 - **HW01**: Simple NoSQL database
 - **HW02**: Compare myredis to Redis
